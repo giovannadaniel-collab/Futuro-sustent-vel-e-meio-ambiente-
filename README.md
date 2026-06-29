@@ -1,11 +1,4 @@
-```python
-import os
-
-# Create directory structure for the project text files
-os.makedirs('agrinho_project/img', exist_ok=True)
-os.makedirs('agrinho_project/HQ', exist_ok=True)
-
-readme_content = """# 🌾 Agrinho 2026 — Inovação, Tecnologia e Sustentabilidade no Campo Paranaense
+# 🌾 Agrinho 2026 — Inovação, Tecnologia e Sustentabilidade no Campo Paranaense
 
 Projeto desenvolvido para o **Concurso Agrinho 2026 – Categoria Programação**, na **Subcategoria 3: Programação Front-End – HTML, CSS e JavaScript**.
 
